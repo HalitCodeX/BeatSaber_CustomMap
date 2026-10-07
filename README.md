@@ -1,6 +1,6 @@
 Beat Saber - Custom Level Map
 --
-# VR ritim oyunu Beat Sabre için özel olarak tasarlanmış ve optimize edilmiş özel olarak tasarlanan v2/v3 custom harita
+VR ritim oyunu Beat Sabre için özel olarak tasarlanmış ve optimize edilmiş özel olarak tasarlanan v2/v3 custom harita
 
 
 ## Harita Özellikleri & Detayları 
